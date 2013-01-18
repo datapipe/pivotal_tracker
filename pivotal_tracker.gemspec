@@ -14,5 +14,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = "0.0.1"
 
-  gem.add_dependency "active_resource"
+  gem.add_dependency "activeresource"
 end
